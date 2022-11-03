@@ -1,0 +1,5 @@
+# FACADE
+>Facade es un patron de diseño el cual promueve la estructuracion de un entorno de programacion y optimiza la complejidad de sus divisiones en los subsistemas. 
+>El patron tiene como funcion definir un objeto el cual hace uso de una interfaz universal para las debidas interfaces del sistema.
+>Este patron se utiliza cuando se busca optimizar una interfaz simple a un subsistema complejo o en casos más regulares, en la estructuracion de varios subsistemas en capas. 
+>El objeto define una interfaz unificada de nivel superior para un subsistema que facilita su uso. Los consumidores se encuentran con un objeto cuando ordenan de un catálogo. El consumidor llama a un número y habla con un representante de servicio al cliente. El representante de servicio al cliente actúa como un objeto, proporcionando una interfaz para el departamento de cumplimiento de pedidos, el departamento de facturación y el departamento de envío.s

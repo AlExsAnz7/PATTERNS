@@ -1,0 +1,3 @@
+# MEMENTO
+> Es un patrón de diseño que permite guardar y restaurar estados previos de un objeto sin que se revelen sus detalles de implementacion. 
+>El Memento captura y externaliza el estado interno de un objeto para que luego el objeto pueda ser restaurado a ese estado. Este patrón es común entre los mecánicos que reparan los frenos de tambor de sus automóviles. Los tambores se quitan de ambos lados, dejando al descubierto los frenos derecho e izquierdo. Solo se desmonta un lado y el otro sirve como recuerdo de cómo encajan las piezas del freno. Solo después de que se ha completado el trabajo en un lado, se desmonta el otro lado. Cuando se desmonta el segundo lado, el primer lado actúa como Memento. Este es un ejemplo claro de su estructura. 

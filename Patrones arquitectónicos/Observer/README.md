@@ -1,0 +1,3 @@
+# Observer
+>Es un patron de diseño de software en el que un objeto llamado sujeto, mantiene una lista de sus dependientes, llamados observadores, y les notifica automáticamente cualquier cambio de estado propuesto en el sistema, generalmente llamando a uno de sus métodos. 
+>El observador define una relación de uno a muchos de modo que cuando un objeto cambia de estado, los demás son notificados y actualizados automáticamente. Algunas subastas demuestran este patrón. Cada postor posee una paleta numerada que se utiliza para indicar una oferta. El subastador comienza la puja y "observa" cuando se levanta una paleta para aceptar la puja. La aceptación de la oferta modifica el precio de la oferta que se transmite a todos los oferentes en forma de nueva oferta.

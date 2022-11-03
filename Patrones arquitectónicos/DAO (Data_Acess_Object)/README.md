@@ -1,0 +1,3 @@
+# DAO
+>El DAO es un componente del software el cual permite separar la lógica de acceso a datos de los Business Objects u Objetos de negocios, de tal forma que el DAO encapsula toda la lógica d acceso de datos al resto de la aplicacion. 
+>La estructura del DAO propone separar por completo la lógica de negocio de la lógica para acceder a los datos, de esta forma, el DAO proporciona los métodos necesarios para insertar, actualizar, borrar y consultar la informacion; por otra parte, la capa de negocio solo se preocupa por lógica de negocio y utiliza el DAO para interactuar con la fuente de datos. 

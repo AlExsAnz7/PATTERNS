@@ -1,0 +1,3 @@
+# PROXY 
+>Es un patron de diseño de software. Un proxy, en su forma más general, es un aclase que funciona como una interfaz para otra cosa. El proxy puede interactuar con cualquier cosa: una conexión de red, un objeto grande en la memoria, un archivo o algún otro recurso que sea costoso o imposible de duplicar. En resumen, un proxy es un contenedor o un objeto de agente que el cliente lama para acceder al objeto de servicio real detrás de escena. 
+>El Proxy proporciona un sustituto o marcador de posición para brindar acceso a un objeto. Un cheque o giro bancario es un representante de los fondos en una cuenta. Se puede usar un cheque en lugar de efectivo para realizar compras y, en última instancia, controla el acceso al efectivo en la cuenta del emisor.

@@ -1,0 +1,3 @@
+# SINGLETON 
+>Un patrón SIngleton en python es un patrón de diseño que permite crear solo una instancia de una clase a lo largo de la vida útil de un programa, es decir, garantiza un que solo exista un objeto de dicho tipo y proporciona un único punto de acceso para cualquier otro código.
+>Su estructura se lleva a cabo por medio de clases, estas son denominadas cómo: (creador) y (producto). El creador es el que se encarga de crear las instancias dentro de los productos prohibiendo la visualización de los tipos, a no ser de que exista la creación de subclases, en ese caso, dichas subclases podrian especificar los tipos conceretos de los productos. 

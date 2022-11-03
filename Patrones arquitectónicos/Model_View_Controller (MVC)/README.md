@@ -1,0 +1,4 @@
+# MVC
+>Es un patron de arquitectura creado por Microsoft y una comunidad de desarrolladores, la cual permite crear páginas web implementando arquitectura MVC, este patrón nos ayuda a organizar y estructurar todos los componentes de un software.
+>Esto se hace para separar las representacione sinternas der la informacion de las formas en que se presenta y acepta la informacion del usuario.
+>Este patron de arquitectura es utilizado tradicionalmente para interfaces graficas de usuario de escritorio, este patron se hizo popular para diseñar aplicaciones web. Los lenguajes de programacion populares tienen marcos MVC que facilitan la implementacion del patron. 

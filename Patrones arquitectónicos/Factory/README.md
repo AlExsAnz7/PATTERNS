@@ -1,0 +1,3 @@
+# FACTORY
+>El método de fábrica es un patrón de diseño creacional que resuelve el problema principal de crear objetos de productos sin especificar sus clases concretas. 
+>El método Factory posee un método singular el cuál debe usarse para crear objetos en lugar de usar una llamada directa al constructuor (new operador). Las subclases pueden anular este método para cambiar la clase de objetos se crearán. 
